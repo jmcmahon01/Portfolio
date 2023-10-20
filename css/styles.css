@@ -18,10 +18,12 @@ h1.Author {
   border: 10px;
   width: 400px;
   margin-top: 20px;
+  margin-bottom: 100px;
 }
 
 .column {
-  width: 400px;
+  width: 300px;
+  height: 300px;
   float: left;
   border: 5px solid rgb(9, 61, 9);
   padding: 20px;
