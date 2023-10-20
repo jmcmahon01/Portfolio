@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(96, 159, 159);
+}
+
+h1.Author {
+  width: 100%;
+  font-style: italic;
+  font-weight: bold;
+  color: rgb(28, 38, 45);
+  text-align: center;
+}
+
+.img {
+  left: 50%;
+  position: relative;
+  transform: translate(-50%);
+  border-radius: 10px;
+  width: 400px;
+  margin-top: 20px;
+
+}
