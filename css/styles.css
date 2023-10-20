@@ -8,6 +8,7 @@ h1.Author {
   font-weight: bold;
   color: rgb(28, 38, 45);
   text-align: center;
+  margin-top: 50px;
 }
 
 .img {
@@ -17,5 +18,9 @@ h1.Author {
   border-radius: 10px;
   width: 400px;
   margin-top: 20px;
+}
 
+.column {
+  width: 400px;
+  float: left;
 }
