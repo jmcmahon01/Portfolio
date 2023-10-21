@@ -2,11 +2,10 @@ body {
   background-color: rgb(96, 159, 159);
 }
 
-h1.Author {
-  width: 100%;
-  font-style: italic;
+.h1 {
+  font-style: sans-serif;
   font-weight: bold;
-  color: rgb(28, 38, 45);
+  color: rgb(6, 34, 56);
   text-align: center;
   margin-top: 50px;
 }
@@ -15,18 +14,24 @@ h1.Author {
   left: 50%;
   position: relative;
   transform: translate(-50%);
-  border: 10px;
+  border: 10px solid rgb(9, 61, 9);
   width: 400px;
   margin-top: 20px;
   margin-bottom: 100px;
+  padding: 10px;
 }
 
+.center {
+  text-align: center color: blue
+}
+
+
 .column {
-  width: 300px;
+  width: 275px;
   height: 300px;
   float: left;
   border: 5px solid rgb(9, 61, 9);
   padding: 20px;
   margin: 20px;
-  background-color: rgb(90, 155, 132);
+  background-color: rgb(70, 212, 162);
 }
