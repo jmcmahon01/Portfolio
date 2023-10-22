@@ -26,7 +26,8 @@ code .
 4. Open index.html file with live server
 
 Or access application in web browser at: 
-https://jmcmahon01.github.io/Portfolio
+https://www.jmcmahon01.github.io/Portfolio
+
 
 ## Known Bugs
 
