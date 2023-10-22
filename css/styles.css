@@ -17,13 +17,20 @@ body {
   border: 10px solid rgb(9, 61, 9);
   width: 400px;
   margin-top: 20px;
-  margin-bottom: 100px;
+  margin-bottom: 80px;
   padding: 10px;
 }
 
-.center {
-  text-align: center color: blue
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: rgb(70, 212, 162);
+  border: 5px solid rgb(9, 61, 9);
+  padding: 20px;
+  margin: 20px;
 }
+
+
 
 
 .column {
