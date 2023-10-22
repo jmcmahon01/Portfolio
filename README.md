@@ -26,11 +26,11 @@ code .
 4. Open index.html file with live server
 
 Or access application in web browser at: 
-GH pages URL once finished
+https://github.com/jmcmahon01/Portfolio/tree/gh-pages
 
 ## Known Bugs
 
-* no known issues 
+* Anything added after the columns in boxes will use the .column class attributes regardles of whether or not the class was referenced in the index file. 
 
 
 ## License
