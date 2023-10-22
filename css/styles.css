@@ -30,11 +30,17 @@ body {
   margin: 20px;
 }
 
+.highlight {
+  color: rgb(77, 5, 5);
+  font-weight: bold;
+  font-size: larger;
+}
+
 
 
 
 .column {
-  width: 275px;
+  width: 290px;
   height: 300px;
   float: left;
   border: 5px solid rgb(9, 61, 9);
