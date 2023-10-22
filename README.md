@@ -26,7 +26,8 @@ code .
 4. Open index.html file with live server
 
 Or access application in web browser at: 
-https://github.com/jmcmahon01/Portfolio/tree/gh-pages
+https://jmcmahon01.github.io/Portfolio
+
 
 
 
