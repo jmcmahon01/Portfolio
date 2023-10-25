@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(96, 159, 159);
+  background-image: linear-gradient(rgb(142, 239, 173), rgb(30, 105, 83))
 }
 
 .h1 {
@@ -48,4 +48,17 @@ body {
   margin: 20px;
   background-color: rgb(70, 212, 162);
   margin-right: 20px;
+}
+
+
+
+.new {
+  width: 1000px;
+  height: 500px;
+  float: left;
+  border: 5px;
+  padding: 20px;
+  margin: 20px;
+  background-image: linear-gradient(rgb(237, 231, 117), rgb(15, 229, 72));
+
 }
